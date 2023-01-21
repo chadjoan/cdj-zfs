@@ -33,7 +33,7 @@ HOMEPAGE="https://github.com/openzfs/zfs"
 #fi
 
 LICENSE="CDDL MIT debug? ( GPL-2+ )"
-SLOT="0/5"
+SLOT="0/${PVR}"
 IUSE="custom-cflags debug +rootfs"
 
 RDEPEND="${DEPEND}"
