@@ -1,6 +1,6 @@
 # cdj-zfs
 
-### An unofficial portage repository.
+#### An unofficial portage repository with occasional super-recent ZFS ebuilds.
 
 Contains ebuilds for the `sys-fs/zfs` and `sys-fs/zfs-kmod` packages.
 
