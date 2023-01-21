@@ -24,7 +24,7 @@ the selection of commits that pass CI.
 To install:
 ```
 eselect repository add cdj-zfs git https://github.com/chadjoan/cdj-zfs-portage-repo.git
-eix-update
+eix-sync
 ```
 
 Ebuilds may be removed from this repository once portage complains about them
